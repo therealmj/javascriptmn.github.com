@@ -1,1 +1,3 @@
-# About JavaScriptMN
+---
+title: About
+---
